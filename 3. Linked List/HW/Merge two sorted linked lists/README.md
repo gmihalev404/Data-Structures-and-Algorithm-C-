@@ -1,4 +1,4 @@
-# Linked List Challenges
+# Merge two sorted linked lists
 
 Този документ съдържа описанието на две задачи за работа със свързани списъци (Linked Lists).
 
