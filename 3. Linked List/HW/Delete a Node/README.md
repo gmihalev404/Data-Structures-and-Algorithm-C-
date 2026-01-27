@@ -1,4 +1,4 @@
-# Linked List Challenges: Part 2
+# Delete a Node
 
 Този документ съдържа инструкции за задачите "Merge two sorted linked lists" и "Delete a Node".
 
