@@ -8,8 +8,13 @@ struct Node{
   }
 }
 
+struct LinkedList{
+  private:
+    Node *head, *tail;
 
-int main(){
-  Node *head = new Node(5);
-  return 0;
+  public:
+    List(){
+      head = nullptr;
+      tail = nullptr;
+    }
 }
