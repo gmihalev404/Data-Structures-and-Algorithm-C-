@@ -41,7 +41,7 @@ get 1
 get 3
 get 4
 ```
-### Изход (Sample Output 0)
+### Sample Output 0
 
 ```text
 1
